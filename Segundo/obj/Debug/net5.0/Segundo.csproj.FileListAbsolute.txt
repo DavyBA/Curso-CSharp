@@ -1,0 +1,16 @@
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.exe
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.deps.json
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.json
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.runtimeconfig.dev.json
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.dll
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\ref\Segundo.dll
+D:\Users\Davy\source\repos\Primeiro\Segundo\bin\Debug\net5.0\Segundo.pdb
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.csproj.AssemblyReference.cache
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfoInputs.cache
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.AssemblyInfo.cs
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.csproj.CoreCompileInputs.cache
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.dll
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\ref\Segundo.dll
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.pdb
+D:\Users\Davy\source\repos\Primeiro\Segundo\obj\Debug\net5.0\Segundo.genruntimeconfig.cache

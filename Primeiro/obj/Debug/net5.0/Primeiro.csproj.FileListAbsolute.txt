@@ -1,0 +1,16 @@
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.exe
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.deps.json
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.json
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.runtimeconfig.dev.json
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.dll
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\Primeiro.pdb
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.AssemblyReference.cache
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfoInputs.cache
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.AssemblyInfo.cs
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.csproj.CoreCompileInputs.cache
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.dll
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.pdb
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\Primeiro.genruntimeconfig.cache
+D:\Users\Davy\source\repos\Primeiro\Primeiro\obj\Debug\net5.0\ref\Primeiro.dll
+D:\Users\Davy\source\repos\Primeiro\Primeiro\bin\Debug\net5.0\ref\Primeiro.dll
